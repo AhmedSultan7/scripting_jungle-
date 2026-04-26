@@ -3,3 +3,4 @@ Dockerfile
 .dockerignore
 .env
 .git   
+docker-compose*
